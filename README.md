@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/73/89/9e/73899e79c2ce1b7c766e18610e30955e.gif)]
+![MasterHead](https://i.pinimg.com/originals/7c/ed/32/7ced32d6cfb80d49545444c0a382de3b.jpg)
 <h1 align="center">Hi 👋, I'm Ronit Gandhi</h1>
 <h3 align="center">A WebDeveloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
