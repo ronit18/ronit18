@@ -3,7 +3,6 @@
 <h3 align="center">A WebDeveloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/ronitgandhi20" target="blank"><img src="https://img.shields.io/twitter/follow/ronitgandhi20?logo=twitter&style=for-the-badge" alt="ronitgandhi20" /></a> </p>
 
 - 🌱 I’m currently learning **React, Ethical Hacking**
 
