@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ronitgandhi96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZN-nXnz-kkw-4OYu9SZM7r3ucOZPDUD1/view?usp=sharing](https://drive.google.com/file/d/1ZN-nXnz-kkw-4OYu9SZM7r3ucOZPDUD1/view?usp=sharing)
+- 📄 Know about my experiences [https://www.ronitgandhi.xyz/RonitGandhi-resume.pdf](https://www.ronitgandhi.xyz/RonitGandhi-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
