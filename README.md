@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🌱 I’m currently learning **React, Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://ronit-portfolio.vercel.app](https://ronit-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.ronitgandhi.xyz/](https://www.ronitgandhi.xyz/)
 
 - 📫 How to reach me **ronitgandhi96@gmail.com**
 
