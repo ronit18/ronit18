@@ -1,15 +1,14 @@
 ![MasterHead](https://i.pinimg.com/originals/7c/ed/32/7ced32d6cfb80d49545444c0a382de3b.jpg)
+
 <h1 align="center">Hi 👋, I'm Ronit Gandhi</h1>
-<h3 align="center">A WebDeveloper from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+-   👨‍💻 All of my projects are available at [https://www.ronitgandhi.xyz/](https://www.ronitgandhi.xyz/)
 
+-   📫 How to reach me **ronitgandhi96@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://www.ronitgandhi.xyz/](https://www.ronitgandhi.xyz/)
-
-- 📫 How to reach me **ronitgandhi96@gmail.com**
-
-- 📄 Know about my experiences [https://www.ronitgandhi.xyz/RonitGandhi-resume.pdf](https://www.ronitgandhi.xyz/RonitGandhi-resume.pdf)
+-   📄 Know about my experiences [https://www.ronitgandhi.xyz/RonitGandhi-resume.pdf](https://www.ronitgandhi.xyz/RonitGandhi-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
