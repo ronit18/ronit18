@@ -3,7 +3,7 @@
 
 Currently pursuing my M.Tech in Cybersecurity at Rashtriya Raksha University (RRU).
 
-I use work for [eleics](https://github.com/eleics) as a software engineer and sys-admin.
+I use work for [eleics](https://github.com/eleics) as a software engineer and sys-admin building [iotdashboard](https://iotdashboard.in).
 
 Here are some of my most interesting open source projects on GitHub:
 
