@@ -12,8 +12,8 @@ Here are some of my most interesting open source projects on GitHub:
   in there that would work well for you too!
 - 🪄 [oXocarbonix-vsc](https://github.com/ronit18/oXocarbonix-vsc) is a VS Code color theme inspired by the popular Neovim oxocarbon colorscheme. This extension provides two carefully crafted variants to suit different lighting conditions and preferences.
 - :octocat: I've made minor contributions to some popular open source projects including
-  [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty/pulls?q=is%3Apr+author%3Aronit18+is%3Amerged),
-
+  - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty),
+  - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 
 Links 🔗:
 - 👨‍💻: [https://www.ronitgandhi.xyz/](https://www.ronitgandhi.xyz/)
