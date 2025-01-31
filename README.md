@@ -16,6 +16,7 @@ Here are some of my most interesting open source projects on GitHub:
   - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 
 Links 🔗:
+- 📧: [rg@ronitgandhi.xyz](mailto:rg@ronitgandhi.xyz)
 - 👨‍💻: [https://www.ronitgandhi.xyz/](https://www.ronitgandhi.xyz/)
 - 💼: [linkedin/in/ronitgandhi08](https://linkedin.com/in/ronitgandhi08)
 
