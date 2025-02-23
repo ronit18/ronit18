@@ -7,9 +7,6 @@ I use work for [eleics](https://github.com/eleics) as a software engineer and sy
 
 Here are some of my most interesting open source projects on GitHub:
 
-- 🛠️ My [dotfiles](https://github.com/ronit18/dotfiles) are public and I've put
-  a lot of effort into making them work well for me. Maybe there are some tricks
-  in there that would work well for you too!
 - 🪄 [oXocarbonix-vsc](https://github.com/ronit18/oXocarbonix-vsc) is a VS Code color theme inspired by the popular Neovim oxocarbon colorscheme. This extension provides two carefully crafted variants to suit different lighting conditions and preferences.
 - :octocat: I've made minor contributions to some popular open source projects including
   - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty),
